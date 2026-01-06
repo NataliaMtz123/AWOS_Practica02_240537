@@ -7,7 +7,7 @@ html{
 body{
     font-size: 1.6rem;
     font-family: 'lato','sans-serif';
-    background-color: rgb(125, 195, 144);
+    background-color: rgb(238, 172, 227);
 }
 /*Estas propiedades son el antes y el despues de box sizing */
 *,*:before,*::after{
