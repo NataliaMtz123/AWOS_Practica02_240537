@@ -5,9 +5,13 @@
     multilinea
     */
 
+    const bg="linear-gradient(45deg, rgba(52,152,219,1) 0% ,rgba(26,188,156,1) 50%)"
+const style_console=`background:${bg};color:white;border-radius:6px;padding:4px;font-size:1.0rem;font-weiggt:bold`
+
+
     //EJERCICIO 01: DECLARACION DE VARIABLES EN JAVASCRIPT
     //1. Utilizando la palabra reservada VAR
-
+console.log("%c1.- Ejercicio 01: Declracion de variables ", style_console);
     // Utilizaremos el método WARN para estilizar las respuestas de las pruebas realizadas a nuestro codigo y facilitar su revisión
     //WARN FRNAJA AMARILLA
     //ERROR FRANJA ROJA
@@ -39,6 +43,9 @@
 
      //miMatricula=240538;
      console.log("El valor de la constante miMatricula es:" ,miMatricula)
+
+
+console.warn("-- Declaración de una constante utilizando el prefijo LET--")
 
 
      //3. Utilizando la palabra reservada LET
