@@ -17,3 +17,4 @@ Esta práctica será desarrollada con estructura de ramales, para que el estudia
 |---|---|---|---|
 |1.|Declaración de Variables|3|✅Finalizada|
 |2.|Tipos de datos|7|✅Finalizada|
+|3.|Funciones|7|✅Finalizada|
